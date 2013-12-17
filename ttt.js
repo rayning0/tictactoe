@@ -69,8 +69,6 @@ function product_check(board) {
       return 8;
     } 
   }
-  console.log("No one wins");
-  console.log(board);
   return 0;
 }
 
